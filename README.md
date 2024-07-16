@@ -20,6 +20,7 @@ Este script em Python gera senhas fortes aleatórias com base nos requisitos mí
    python strong_password_generator.py
 
 ## Exemplo de uso
+```bash
 if __name__ == "__main__":
     password_length = 16  # Defina o comprimento desejado da senha
     strong_password = generate_strong_password(password_length)
